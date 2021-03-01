@@ -1,7 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b77fbefa599c31439ce5",
-    "url": "/css/app.e8e7dbd8.css"
+    "revision": "7c11b5effd26321735ea",
+    "url": "/css/app.e8c0429a.css"
   },
   {
     "revision": "d8cfec790c594b81f70c6c408a139910",
@@ -84,16 +84,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/background.75921961.jpg"
   },
   {
-    "revision": "1aa13e7670eaa779d4355add65a275bb",
-    "url": "/img/background2.1aa13e76.jpg"
-  },
-  {
     "revision": "54a355f792f558248671482a31a4935b",
     "url": "/img/boxing-timer.54a355f7.jpg"
   },
   {
-    "revision": "a4ed14910ac18cbedee296b409d2cb2d",
-    "url": "/img/calorie-king.a4ed1491.jpg"
+    "revision": "29216aaef04865a602a9438b4fccf176",
+    "url": "/img/calorie-king.29216aae.jpg"
   },
   {
     "revision": "24cb4077198a1b5abf1ef04a2fb304a8",
@@ -104,8 +100,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/github.e0a53d38.svg"
   },
   {
-    "revision": "91d502e4102d4a9904ed6fd8bdf7fa45",
-    "url": "/img/goteborgarna.91d502e4.jpg"
+    "revision": "aa8649d57082919dad12296d2a753239",
+    "url": "/img/goteborgarna.aa8649d5.jpg"
   },
   {
     "revision": "45afee96b915afe3a762f737ea8cdb2b",
@@ -120,7 +116,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/wake-up.29f02bf2.jpg"
   },
   {
-    "revision": "87c594f8b0a5147a694971227f1f7daf",
+    "revision": "09dca443f5515f602fcf95cb5b06c6c2",
+    "url": "/img/wearluxary.09dca443.jpg"
+  },
+  {
+    "revision": "d90607521f31dc0a78f2af5b5ac81964",
     "url": "/index.html"
   },
   {
@@ -128,8 +128,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/about.aa2668ef.js"
   },
   {
-    "revision": "b77fbefa599c31439ce5",
-    "url": "/js/app.e5535d91.js"
+    "revision": "7c11b5effd26321735ea",
+    "url": "/js/app.8e5d7b63.js"
   },
   {
     "revision": "f44a1b703836e33e946c",
