@@ -1,7 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7c11b5effd26321735ea",
-    "url": "/css/app.e8c0429a.css"
+    "revision": "992c4fc3ae8bff7b816c",
+    "url": "/css/app.6801b13d.css"
   },
   {
     "revision": "d8cfec790c594b81f70c6c408a139910",
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/Rectangle-ai.7b8176d2.png"
   },
   {
-    "revision": "176a64c78ee52b5af0b47438e05571f2",
-    "url": "/img/Rectangle-blue.176a64c7.jpg"
+    "revision": "e757406faf70116e77611a1ad151b321",
+    "url": "/img/Rectangle-blue.e757406f.jpg"
   },
   {
     "revision": "55a29f113377f3e5e5b794ad3bee9964",
@@ -52,8 +52,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/Rectangle-purple.99d8498a.jpg"
   },
   {
-    "revision": "408e96645eadefbf0f571277b1d78fbf",
-    "url": "/img/Rectangle-red.408e9664.jpg"
+    "revision": "da3888afc759f18e57e0f19b1fb55343",
+    "url": "/img/Rectangle-red.da3888af.jpg"
   },
   {
     "revision": "fed43764b8854d43cdbba5895ed8623b",
@@ -72,8 +72,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/Rectangle-xd.892a7c7a.png"
   },
   {
-    "revision": "96f5cd625d088b78ec06ec6c53902d83",
-    "url": "/img/Rectangle-yellow.96f5cd62.jpg"
+    "revision": "1de751e57a850873e08a730ccb7d60fe",
+    "url": "/img/Rectangle-yellow.1de751e5.jpg"
   },
   {
     "revision": "0359f98dad9b733c4d42fe3f8697e62a",
@@ -120,7 +120,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/wearluxary.09dca443.jpg"
   },
   {
-    "revision": "d90607521f31dc0a78f2af5b5ac81964",
+    "revision": "5bf35667e00406f5c41a1b47d17b322b",
     "url": "/index.html"
   },
   {
@@ -128,8 +128,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/about.aa2668ef.js"
   },
   {
-    "revision": "7c11b5effd26321735ea",
-    "url": "/js/app.8e5d7b63.js"
+    "revision": "992c4fc3ae8bff7b816c",
+    "url": "/js/app.3fb57993.js"
   },
   {
     "revision": "f44a1b703836e33e946c",
