@@ -120,7 +120,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/wearluxary.09dca443.jpg"
   },
   {
-    "revision": "2dbd7c286ad5ba66de667bb83eb7cabc",
+    "revision": "36b81490e02311c7146577efd286206f",
     "url": "/index.html"
   },
   {
@@ -136,7 +136,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/chunk-vendors.ddecb51b.js"
   },
   {
-    "revision": "400a327d7b15d9c14f2b279ec6236d88",
+    "revision": "a8f6ec76de8267c6b42f6ed7aef41d4b",
     "url": "/manifest.json"
   },
   {
