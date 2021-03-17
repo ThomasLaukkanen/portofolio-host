@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.70e2f2e33b3b2911991740eb15df0197.js"
+  "/precache-manifest.07b81544de9db37281ba09c3055b1bc4.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "thomas-laukkanen"});

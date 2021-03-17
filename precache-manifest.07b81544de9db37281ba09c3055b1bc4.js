@@ -1,7 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9fd3c3e4da05b779e70a",
-    "url": "/css/app.77c8c0e5.css"
+    "revision": "2128d0671fd766e8d054",
+    "url": "/css/app.e45654c7.css"
   },
   {
     "revision": "d8cfec790c594b81f70c6c408a139910",
@@ -72,20 +72,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/calorie-king.29216aae.jpg"
   },
   {
-    "revision": "c6edaba35efe11406533f7431d69ac23",
-    "url": "/img/dribble.c6edaba3.svg"
-  },
-  {
-    "revision": "184837f2bd84a91eb62d706ceb9c54c3",
-    "url": "/img/github.184837f2.svg"
-  },
-  {
     "revision": "aa8649d57082919dad12296d2a753239",
     "url": "/img/goteborgarna.aa8649d5.jpg"
-  },
-  {
-    "revision": "7dc732a805e01909fbae67b0b1392e01",
-    "url": "/img/linkedin.7dc732a8.svg"
   },
   {
     "revision": "5da756b0b51149b7b53a95ab0cd809d8",
@@ -104,12 +92,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/wearluxary.09dca443.jpg"
   },
   {
-    "revision": "84fd99345098c3ee0c41a5e944c2a536",
+    "revision": "3766103d0f1bc7fe3c7890f7b37d5c1b",
     "url": "/index.html"
   },
   {
-    "revision": "9fd3c3e4da05b779e70a",
-    "url": "/js/app.1c1eac38.js"
+    "revision": "2128d0671fd766e8d054",
+    "url": "/js/app.b7b21209.js"
   },
   {
     "revision": "4e14a265f023b728acea",
