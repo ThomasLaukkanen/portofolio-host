@@ -1,7 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3e8f2b6162bf4c080851",
-    "url": "/css/app.26d42e01.css"
+    "revision": "3d00c6aef1105aedbe7d",
+    "url": "/css/app.1b87c64c.css"
   },
   {
     "revision": "d8cfec790c594b81f70c6c408a139910",
@@ -92,12 +92,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/wearluxary.09dca443.jpg"
   },
   {
-    "revision": "8f4ca210b60a9819cedc698d3636040a",
+    "revision": "30044b104a656ceb435b13d94e78f109",
     "url": "/index.html"
   },
   {
-    "revision": "3e8f2b6162bf4c080851",
-    "url": "/js/app.a91de88e.js"
+    "revision": "3d00c6aef1105aedbe7d",
+    "url": "/js/app.0d30800a.js"
   },
   {
     "revision": "4e14a265f023b728acea",
