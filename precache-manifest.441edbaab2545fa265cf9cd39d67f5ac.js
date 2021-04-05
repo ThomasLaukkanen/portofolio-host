@@ -1,7 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "52833504acd7c48d6353",
-    "url": "/css/app.a706603f.css"
+    "revision": "f19d32d5c794e6e07d8f",
+    "url": "/css/app.0306104b.css"
   },
   {
     "revision": "d8cfec790c594b81f70c6c408a139910",
@@ -68,8 +68,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/background.75921961.jpg"
   },
   {
-    "revision": "290f2ea47170929f9c4d7dd9550c1bc3",
-    "url": "/img/blackandwhite.290f2ea4.png"
+    "revision": "b08c42385317d88677c2f4daabe664fd",
+    "url": "/img/blackandwhite2.b08c4238.png"
   },
   {
     "revision": "54a355f792f558248671482a31a4935b",
@@ -100,12 +100,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/wearluxary.09dca443.jpg"
   },
   {
-    "revision": "0a4d83d04aad7ed550260dd94f2ea799",
+    "revision": "996031037f67da9d2fd7d50096a0f596",
     "url": "/index.html"
   },
   {
-    "revision": "52833504acd7c48d6353",
-    "url": "/js/app.7806f33e.js"
+    "revision": "f19d32d5c794e6e07d8f",
+    "url": "/js/app.5408900e.js"
   },
   {
     "revision": "7f3ed30f1d27cc152028",
